@@ -1,0 +1,24 @@
+:root {
+  /* Tool UI colors (NOT the preview theme) */
+  --tool-bg: #f1f5f9;
+  --tool-panel-bg: #ffffff;
+  --tool-border: #e2e8f0;
+  --tool-border-light: #f1f5f9;
+  --tool-text: #1e293b;
+  --tool-text-secondary: #64748b;
+  --tool-text-muted: #94a3b8;
+  --tool-accent: #3b82f6;
+  --tool-accent-light: #eff6ff;
+  --tool-accent-dark: #2563eb;
+  --tool-success: #16a34a;
+  --tool-warning: #f59e0b;
+  --tool-error: #dc2626;
+  --tool-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --tool-shadow: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06);
+  --tool-shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --tool-shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --tool-radius: 8px;
+  --tool-radius-sm: 6px;
+  --tool-radius-lg: 12px;
+  --tool-transition: 0.2s ease;
+}
